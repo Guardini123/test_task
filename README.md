@@ -1,3 +1,3 @@
 # test_task
-Test repository
+Test repository\n
 test text
